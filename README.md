@@ -38,7 +38,6 @@ Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
   <a href="#" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
-  
    &emsp;
    <a href="#" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
