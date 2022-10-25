@@ -4,10 +4,11 @@
 </p>
 <hr/>
 
-### 👨🏻‍💻 About me
+### 👨🏻‍💻 Sobre mi
 
 Tengo 21 años, soy desarrollador full stack orientado al área del desarrollo front end con capacidad y muchas ganas de realizar proyectos aportando mi conocimiento, generar un buen trabajo en equipo y aprender todos los días. 
 Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
+
 <br>
 ✉️ santipapor@gmail.com
 <br>
@@ -15,9 +16,9 @@ Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
 
 <br>
 
-## 🛠️ Tech skills
+## 🛠️ Habilidades tecnicas
 
-### 👉 Lenguages
+### 👉 Lenguajes
 
 <p align="left">
   &emsp;
@@ -89,7 +90,7 @@ Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
 
 <br/>
 
-## 🙋‍♂️ Contact
+## 🙋‍♂️ Contacto!
 <p align="center">
 	<a href="mailto:santipapor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
