@@ -96,6 +96,7 @@ Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
 
 ## 🙋‍♂️ Contacto!
 <p align="left">
+    &emsp;
 	<a href="mailto:santipapor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://github.com/SantiPaper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
