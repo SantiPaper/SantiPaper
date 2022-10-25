@@ -46,6 +46,10 @@ Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
   <a href="#" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a> 
+  <a href="#" target="_blank">
+    <img alt="Redux" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a> 
+  
    &emsp;
 </p>
 
