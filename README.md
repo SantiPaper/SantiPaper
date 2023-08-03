@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 Sobre mi
 
-Tengo 21 años, soy desarrollador full stack orientado al área del desarrollo front end con capacidad y muchas ganas de realizar proyectos aportando mi conocimiento, generar un buen trabajo en equipo y aprender todos los días. 
+Tengo 22 años, soy desarrollador full stack orientado al área del desarrollo front end con capacidad y muchas ganas de realizar proyectos aportando mi conocimiento, generar un buen trabajo en equipo y aprender todos los días. 
 Afortunadamente encontré mi lugar en el mundo y ese es el mundo del IT.
 
 <br>
