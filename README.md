@@ -1,14 +1,10 @@
 <h1>Hola, soy Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-##  Sobre mi
+###  Sobre mi
 
 Tengo 23 años, soy desarrollador full stack orientado al área del desarrollo front end abierto a realizar proyectos aportando mi conocimiento.
 
-<br>
 ✉️ santiagovitelli01@gmail.com
-
-
-<br>
 
 ### Tecnologías
 
